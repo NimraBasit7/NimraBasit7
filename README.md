@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=NimraBasit7&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 <!--
 **NimraBasit7/NimraBasit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
